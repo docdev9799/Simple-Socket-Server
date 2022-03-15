@@ -1,0 +1,48 @@
+{
+  "dictionary": [
+    {
+      "term": "dog",	
+      "definition": "a domesticated carnivorous mammal that typically has a long snout and an acute sense of smell"
+    },
+    {
+      "term": "cat",	
+      "definition": "a small domesticated carnivorous mammal with soft fur, a short snout, and retractable claws"
+    },
+    {
+      "term": "bear",	
+      "definition": "a large, heavy mammal that walks on the soles of its feet, having thick fur and a very short tail"
+    },
+    {
+      "term": "pig",	
+      "definition": "a domesticated animal that is raised as livestock for its meat and fat"
+    },
+    {
+      "term": "deer",	
+      "definition": "a ruminant mammal with a slender body and long legs, that is valued for its meat by humans"
+    },
+    {
+      "term": "sheep",	
+      "definition": "a ruminant mammal that is valued for its wool and meat"
+    },
+    {
+      "term": "poultry",	
+      "definition": "domesticated birds kept by humans for their meat or eggs"
+    },
+    {
+      "term": "fish",	
+      "definition": "a cold-blooded aquatic vertebrate with gills, that can breathe only through its gills"
+    },
+    {
+      "term": "mammal",	
+      "definition": "a warm-blooded vertebrate with hair or fur, and mammary glands"
+    },
+    {
+      "term": "reptile",	
+      "definition": "a cold-blooded vertebrate with scaly skin, that breathes air and lays eggs on land"
+    },
+    {
+      "term": "bird",	
+      "definition": "a warm-blooded vertebrate with wings and feathers, that lays eggs on land"
+    }
+  ]
+}
